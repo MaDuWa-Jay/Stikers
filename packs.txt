@@ -1,0 +1,7 @@
+# Hama line ekak = pack ekak.   Format:   Pack nama | Telegram link | version
+# version optional (default 1). Pack eke stickers wenas kala nam version eka +1 karanna (users ta "Update now" enawa).
+# Nama ona naha nam link eka withrai danna puluwan.  '#' ethi line skip wenawa.
+#
+# Udaharana (me line deka wenas karanna):
+# Funny Cats | https://t.me/addstickers/FunnyCats | 1
+# https://t.me/addstickers/AnotherPack
